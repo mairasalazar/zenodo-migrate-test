@@ -1,0 +1,10 @@
+{
+  "title": "Zenodo VCS migration test",
+  "description": "Throwaway repo for testing the invenio-github to invenio-vcs migration.",
+  "creators": [
+    { "name": "Salazar, Maira", "affiliation": "CERN" }
+  ],
+  "upload_type": "software",
+  "license": "mit",
+  "keywords": ["test", "zenodo", "migration"]
+}
